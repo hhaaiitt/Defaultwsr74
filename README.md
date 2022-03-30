@@ -6,4 +6,3 @@
 <a href="https://lon9.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaultwsr74&theme=white&hide=html" />
 </a>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito)](https://git.io/awesome-stats-card)
